@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BattleshipGame
+comment1.params=
+comment1.target=BattleshipGame()
+comment2.params=inputX\ inputY
+comment2.target=void\ FriendlySpaceCheck(int,\ int)
+comment3.params=inputX\ inputY
+comment3.target=void\ PlaceShipObject(int,\ int)
+numComments=4

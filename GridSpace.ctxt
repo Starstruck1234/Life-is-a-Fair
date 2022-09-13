@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GridSpace
+comment1.params=insertX\ insertY
+comment1.target=GridSpace(int,\ int)
+comment2.params=
+comment2.target=void\ MakeFriendlyShip()
+comment3.params=
+comment3.target=void\ MakeEnemyShip()
+comment4.params=
+comment4.target=void\ CheckIfFriendlyShip()
+comment5.params=
+comment5.target=void\ CheckIfEnemyShip()
+numComments=6
